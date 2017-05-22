@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/YuryBandarchuk/Documents/C++/Compresser/HuffmanCompresser/HuffmanCompresser.cpp
+HuffmanCompresser.h
+/Users/YuryBandarchuk/Documents/C++/Compresser/HuffmanCompresser/HuffmanCompresser.h
+string.h
+-
+cstdlib
+-
+
+/Users/YuryBandarchuk/Documents/C++/Compresser/HuffmanCompresser/HuffmanCompresser.h
+vector
+-
+queue
+-
+

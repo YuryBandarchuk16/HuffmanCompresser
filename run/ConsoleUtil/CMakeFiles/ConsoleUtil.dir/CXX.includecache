@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/YuryBandarchuk/Documents/C++/Compresser/ConsoleUtil/FileWorker.cpp
+FileWorker.h
+/Users/YuryBandarchuk/Documents/C++/Compresser/ConsoleUtil/FileWorker.h
+cstring
+-
+
+/Users/YuryBandarchuk/Documents/C++/Compresser/ConsoleUtil/FileWorker.h
+cstdio
+-
+vector
+-
+stdexcept
+-
+
+/Users/YuryBandarchuk/Documents/C++/Compresser/ConsoleUtil/main.cpp
+../HuffmanCompresser/HuffmanCompresser.h
+/Users/YuryBandarchuk/Documents/C++/Compresser/HuffmanCompresser/HuffmanCompresser.h
+FileWorker.h
+/Users/YuryBandarchuk/Documents/C++/Compresser/ConsoleUtil/FileWorker.h
+iostream
+-
+string.h
+-
+
+/Users/YuryBandarchuk/Documents/C++/Compresser/HuffmanCompresser/HuffmanCompresser.h
+vector
+-
+queue
+-
+
